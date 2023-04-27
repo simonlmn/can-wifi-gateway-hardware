@@ -118,7 +118,7 @@ NodeMCU</text>
 <text x="12.2" y="53.34" size="1.27" layer="21" font="vector" align="center">V1.1</text>
 <text x="81.28" y="1.27" size="1.27" layer="21" align="bottom-right">© 2023 s.lehmann</text>
 <text x="56.8325" y="33.655" size="1.016" layer="21" font="vector" rot="R90" align="top-left">1 OTA
-2 R/O
+2 WRITE
 3 LISTEN
 4 DEBUG</text>
 <text x="15.02" y="51.34" size="1.27" layer="21" font="vector" align="center">[dev. board]</text>
