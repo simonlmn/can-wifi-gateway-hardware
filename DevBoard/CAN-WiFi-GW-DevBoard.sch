@@ -12232,7 +12232,7 @@ to CAN Module board</text>
 <wire x1="104.14" y1="147.32" x2="27.94" y2="147.32" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="ESP_D6/LISTEN_MODE" class="0">
+<net name="ESP_D6/CAN_TX_EN" class="0">
 <segment>
 <label x="27.94" y="149.86" size="1.778" layer="95"/>
 <pinref part="J8" gate="G$1" pin="7"/>
