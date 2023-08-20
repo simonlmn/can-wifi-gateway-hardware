@@ -14,6 +14,14 @@ The (bare) PCBs can be directly ordered at https://aisler.net/simon-lehmann/can-
 
 This can be used for running https://github.com/simonlmn/can-wifi-gateway-stiebel-eltron to provide an HTTP-based API to a Stiebel Eltron heat pump.
 
+## Support
+
+If you want to support this project, you can:
+
+ * use it and provide feedback
+ * provide additional variations or versions (e.g. support for ESP32 or a fully integrated board)
+ * [![Donate](https://img.shields.io/badge/Donate-with%20PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=BSKYG5C8S8HVU)
+
 ## Bill of Materials
 
 Listed below are all components needed to fully assemble the DevBoard and mounting it in a fitting casing.
