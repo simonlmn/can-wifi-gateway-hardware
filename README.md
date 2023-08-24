@@ -1,6 +1,8 @@
 # CAN/WiFi Gateway Hardware
 Schematics and PCB layout for a CAN-WiFi gateway based on an ESP8266, an Arduino Nano and a CAN adapter/bridge.
 
+![Assembled DevBoard v1.0](resources/DevBoard-v1.0-assembled.jpeg "Assembled DevBoard v1.0")
+
 Currently, there is only the DevBoard version available, which was designed to replace a prototype based on prototyping boards, some wires and a case. The dev board is meant to provide a more robust and reliable base for attaching and connecting the individual off-the-shelf components together:
 
  * An ESP8266 dev board ("NodeMCU Lolin V2")
@@ -13,6 +15,8 @@ The shape and mounting hole pattern is designed to fit into an casing made for p
 The (bare) PCBs can be directly ordered at https://aisler.net/simon-lehmann/can-wifi-gateway/can-wifi-gw-devboard. Of course, any other manufacturer can be used too.
 
 This can be used for running https://github.com/simonlmn/can-wifi-gateway-stiebel-eltron to provide an HTTP-based API to a Stiebel Eltron heat pump.
+
+<nobr>![Assembled DevBoard v1.0: front view](resources/DevBoard-v1.0-assembled1.jpeg "Assembled DevBoard v1.0: front view")![Assembled DevBoard v1.0: bottom view](resources/DevBoard-v1.0-assembled3.jpeg "Assembled DevBoard v1.0: bottom view")![Assembled DevBoard v1.0: casing](resources/DevBoard-v1.0-casing.jpeg "Assembled DevBoard v1.0: casing")</nobr>
 
 ## Support
 
@@ -63,7 +67,7 @@ The listed prices are based on average prices from retailers (Germany), but some
 | Nut M3                             * |        2 |     0.10 € |      0.20 € |
 | __TOTAL__                            |          |            |  __8.20 €__ |
 
-*) Standoffs, screws and nuts can be basically any material (i.e. nylon or metal). To screw them into the casing, the plastic mounting holes should be pre-tapped with an M3 tap in any case, but metal standoffs can be used as self-tapping.
+ *) Standoffs, screws and nuts can be basically any material (i.e. nylon or metal). To screw them into the casing, the plastic mounting holes should be pre-tapped with an M3 tap in any case, but metal standoffs can be used as self-tapping.
 
 ## Notes on design choices
 
