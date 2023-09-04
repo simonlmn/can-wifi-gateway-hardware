@@ -1,7 +1,7 @@
 # CAN/WiFi Gateway Hardware
 Schematics and PCB layout for a CAN-WiFi gateway based on an ESP8266, an Arduino Nano and a CAN adapter/bridge.
 
-![Assembled DevBoard v1.0](resources/DevBoard-v1.0-assembled.jpeg "Assembled DevBoard v1.0")
+![Unassembled DevBoard v1.1](resources/DevBoard-v1.1-unassembled.jpeg "Unassembled DevBoard v1.1")
 
 Currently, there is only the DevBoard version available, which was designed to replace a prototype based on prototyping boards, some wires and a case. The dev board is meant to provide a more robust and reliable base for attaching and connecting the individual off-the-shelf components together:
 
