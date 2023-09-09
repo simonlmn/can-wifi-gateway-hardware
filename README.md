@@ -26,6 +26,13 @@ If you want to support this project, you can:
  * provide additional variations or versions (e.g. support for ESP32 or a fully integrated board)
  * [![Donate](https://img.shields.io/badge/Donate-with%20PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=BSKYG5C8S8HVU)
 
+## Functions
+
+> [!NOTE]  
+> The functionality behind each button/switch depends on the software running on the module. The picture below shows the intended functionality, which is also what the https://github.com/simonlmn/can-wifi-gateway-stiebel-eltron implements.
+
+![Functions of DevBoard v1.1](resources/DevBoard-v1.1-functions.png "Functions of DevBoard v1.1")
+
 ## Bill of Materials
 
 Listed below are all components needed to fully assemble the DevBoard and mounting it in a fitting casing.
